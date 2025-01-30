@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week03_3_DynamicKeyword", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week04", "Week04", "{279A26CC-B1B8-4037-929C-D1F0E777CB78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04_1_Expressions", "Week04_1_Expressions\Week04_1_Expressions.csproj", "{253E7CB9-73B2-4AED-97A0-F859E65907A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week04_1_Expressions", "Week04_1_Expressions\Week04_1_Expressions.csproj", "{253E7CB9-73B2-4AED-97A0-F859E65907A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04_2_ExpressionVisitors", "Week04_2_ExpressionVisitors\Week04_2_ExpressionVisitors.csproj", "{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{F2030D2A-2054-4910-A531-0F4FC934A09F} = {2901D8AE-26F6-432F-A1A0-5204D55146BA}
 		{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45} = {2901D8AE-26F6-432F-A1A0-5204D55146BA}
 		{253E7CB9-73B2-4AED-97A0-F859E65907A9} = {279A26CC-B1B8-4037-929C-D1F0E777CB78}
+		{DBD172F0-4FDF-4A11-B0C1-3AEBC7B1DA1F} = {279A26CC-B1B8-4037-929C-D1F0E777CB78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58391DA5-B19F-4F74-A47D-4CBFC19C5F71}
