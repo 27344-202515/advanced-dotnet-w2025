@@ -23,9 +23,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week03", "Week03", "{2901D8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week03_1_Reflection", "Week03_1_Reflection\Week03_1_Reflection.csproj", "{9BDCB645-172F-4970-B7D9-67F9D1484D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week03_2_SqlQueryBuilder", "Week03_2_SqlQueryBuilder\Week03_2_SqlQueryBuilder.csproj", "{F2030D2A-2054-4910-A531-0F4FC934A09F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week03_2_SqlQueryBuilder", "Week03_2_SqlQueryBuilder\Week03_2_SqlQueryBuilder.csproj", "{F2030D2A-2054-4910-A531-0F4FC934A09F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week03_3_DynamicKeyword", "Week03_3_DynamicKeyword\Week03_3_DynamicKeyword.csproj", "{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week03_3_DynamicKeyword", "Week03_3_DynamicKeyword\Week03_3_DynamicKeyword.csproj", "{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week04", "Week04", "{279A26CC-B1B8-4037-929C-D1F0E777CB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04_1_Expressions", "Week04_1_Expressions\Week04_1_Expressions.csproj", "{253E7CB9-73B2-4AED-97A0-F859E65907A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,10 @@ Global
 		{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253E7CB9-73B2-4AED-97A0-F859E65907A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +91,7 @@ Global
 		{9BDCB645-172F-4970-B7D9-67F9D1484D86} = {2901D8AE-26F6-432F-A1A0-5204D55146BA}
 		{F2030D2A-2054-4910-A531-0F4FC934A09F} = {2901D8AE-26F6-432F-A1A0-5204D55146BA}
 		{90DF6074-BBFC-4AAE-B65D-39CAD6E31E45} = {2901D8AE-26F6-432F-A1A0-5204D55146BA}
+		{253E7CB9-73B2-4AED-97A0-F859E65907A9} = {279A26CC-B1B8-4037-929C-D1F0E777CB78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58391DA5-B19F-4F74-A47D-4CBFC19C5F71}
