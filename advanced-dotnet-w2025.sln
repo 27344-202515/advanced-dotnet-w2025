@@ -55,6 +55,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_4_KestrelWebServerSh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_5_KestrelWebServer_Client", "Week07_5_KestrelWebServer.Client\Week07_5_KestrelWebServer_Client.csproj", "{5C27C70B-51A4-4B0C-A0D2-9105B933F585}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week08", "Week08", "{537198A1-B9A0-4738-8CB5-EF28A4A810F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08_1_SignalREx", "Week08_1_SignalREx\Week08_1_SignalREx.csproj", "{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,10 @@ Global
 		{5C27C70B-51A4-4B0C-A0D2-9105B933F585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C27C70B-51A4-4B0C-A0D2-9105B933F585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C27C70B-51A4-4B0C-A0D2-9105B933F585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +169,7 @@ Global
 		{FD1D93DA-350B-43F3-AE22-C9BCDE7E6D08} = {57CB05A3-4539-4124-B906-4FD227054FAE}
 		{0019799A-B6C4-402D-86A8-397E0F1CD655} = {57CB05A3-4539-4124-B906-4FD227054FAE}
 		{5C27C70B-51A4-4B0C-A0D2-9105B933F585} = {57CB05A3-4539-4124-B906-4FD227054FAE}
+		{C6EE19E7-B90F-4DA9-9CF2-04B7E5DB6C06} = {537198A1-B9A0-4738-8CB5-EF28A4A810F3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58391DA5-B19F-4F74-A47D-4CBFC19C5F71}
