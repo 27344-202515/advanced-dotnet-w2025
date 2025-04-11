@@ -79,6 +79,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10_6_CreationalDesignPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10_7_BehaviouralDesignPatterns", "Week10_7_BehaviouralDesignPatterns\Week10_7_BehaviouralDesignPatterns.csproj", "{0EE3AFD2-1B79-4D7E-BD96-FEFFFDDB0731}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week11", "Week11", "{C239583C-058D-410B-A630-350DF331C6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week11_1_Facade", "Week11_1_Facade\Week11_1_Facade.csproj", "{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +201,10 @@ Global
 		{0EE3AFD2-1B79-4D7E-BD96-FEFFFDDB0731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE3AFD2-1B79-4D7E-BD96-FEFFFDDB0731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE3AFD2-1B79-4D7E-BD96-FEFFFDDB0731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -230,6 +238,7 @@ Global
 		{CCB4D391-EC5B-44C9-897B-724918B50899} = {8D123B57-BA13-4207-B870-2B9CD6EED06E}
 		{3ACA98EB-BB37-423E-9525-26DF8DB67DED} = {8D123B57-BA13-4207-B870-2B9CD6EED06E}
 		{0EE3AFD2-1B79-4D7E-BD96-FEFFFDDB0731} = {8D123B57-BA13-4207-B870-2B9CD6EED06E}
+		{EABBFED0-ACF6-4FB6-A0BD-798C7A6CF02F} = {C239583C-058D-410B-A630-350DF331C6DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58391DA5-B19F-4F74-A47D-4CBFC19C5F71}
